@@ -30,3 +30,11 @@ Scikit-learn : The primary library for model training, cross-validation, and eva
 Matplotlib / Seaborn: Used for exploratory data analysis and visualizing feature relationships 
 
 Matplotlib / Seaborn: Used for exploratory data analysis and visualizing feature relationships (e.g., correlation heatmaps and distribution plots).
+**Output**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2328febc-e8a4-4594-a1cc-a1d38c2fb521" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0859e718-6955-4e58-ac5c-22db2b8bfe2b" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/05f7429f-707d-4073-956d-8c01c450c9a1" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/93c6e73e-5ed4-413f-8e24-95ffa1d90d9b" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/954a33c8-1b3c-41e7-b804-6f31c5a2f86c" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/695943b5-5ec1-484a-80c9-9e7c11e69844" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/250ec62c-e8e5-4a6c-9312-2612dd650225" />
